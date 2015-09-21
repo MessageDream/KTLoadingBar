@@ -7,7 +7,7 @@ to show:
 ```
 to dismiss:
 ``` objc
-    [KTLoadingBar showLoadingWith:self.contentView atPosition:KTLoadingBarPosition_Top];
+    [KTLoadingBar popActivity];
 ```  
 or:
 ``` objc
